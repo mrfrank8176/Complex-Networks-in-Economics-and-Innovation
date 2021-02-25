@@ -1,3 +1,12 @@
+## Satellite Organizers:
+- [Morgan R. Frank](www.pitt.edu/~mrfrank), University of Pittsburgh
+- [Lingfei Wu](https://lingfeiwu.github.io/), University of Pittsburgh
+- [Michele Coscia](https://www.michelecoscia.com/), IT University of Copenhagen
+
+
+
+
+
 # What does this do?
 ajkld;asjl;kda
 
