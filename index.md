@@ -21,3 +21,6 @@ Building on the above, the aim of this satellite is to explore the potential app
 - Investigating the dynamics of research and innovation via analysis of patents, inventions, and science;
 - Uncovering scaling laws and other growth trends able to describe the systemic increase in complexity of activities due to agglomeration;
 - In general, any application of network analysis that can be used to further our understanding of economics.
+
+# Agenda:
+TBD
