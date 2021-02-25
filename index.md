@@ -6,6 +6,9 @@
 ## Call for Participation:
 TBD
 
+### Confirmed Speakers:
+- [Daniel Rock](https://oid.wharton.upenn.edu/profile/rockdi/), Wharton School, University of Pennsylvania 
+
 ## Satellite Description:
 Economic convergence occurs when developing economies increase their productivity faster than developed economies. Society has a moral imperative to promote economic convergence because it is the most reliable path to lift people out of poverty and achieve decent standards of living. However, today’s global and regional economies are characterized by a high degree of complexity. Thus, economic convergence is best supported by improved understanding of the ecosystem of complementary actors, knowhow, and capital comprising various economic activities. Thus, productivity may be conceptualized as an emerging property of a complex system made by simpler interacting parts. Complex systems are notoriously difficult to control but quantifying these interactions can identify the bottlenecks to growth and inform policy to bolster economic convergence. Using tools from economics, complex systems, and network science, we seek crucial insights that enable economic convergence.
 
