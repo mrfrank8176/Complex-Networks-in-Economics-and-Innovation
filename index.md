@@ -13,6 +13,7 @@ TBD
 - [Yong-Yeol "YY" Ahn](https://yongyeol.com/), Center for Complex Networks and Systems Research, Indiana University Bloomington
 - [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez), Civil and Environmental Engineering, UC Berkeley
 - [Jiang Zhang](http://www.swarmagents.cn/jake), School of Systems Science, Beijing Normal University
+- [R. Maria del Rio-Chanona](https://www.inet.ox.ac.uk/people/rita-maria-del-rio-chanona/) Mathematical Institute, University of Oxford
 
 ## Satellite Description:
 Economic convergence occurs when developing economies increase their productivity faster than developed economies. Society has a moral imperative to promote economic convergence because it is the most reliable path to lift people out of poverty and achieve decent standards of living. However, today’s global and regional economies are characterized by a high degree of complexity. Thus, economic convergence is best supported by improved understanding of the ecosystem of complementary actors, knowhow, and capital comprising various economic activities. Thus, productivity may be conceptualized as an emerging property of a complex system made by simpler interacting parts. Complex systems are notoriously difficult to control but quantifying these interactions can identify the bottlenecks to growth and inform policy to bolster economic convergence. Using tools from economics, complex systems, and network science, we seek crucial insights that enable economic convergence.
