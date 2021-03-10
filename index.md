@@ -30,4 +30,22 @@ Building on the above, the aim of this satellite is to explore the potential app
 - In general, any application of network analysis that can be used to further our understanding of economics.
 
 # Agenda:
-TBD
+Tenative Schedule (Date TBD. All times are EST):
+ - 8:30AM Invited I:  Lü Linyuan
+ - 9:10AM Invited II: Maria del Rio Chanona
+ - 9:50AM Contributed I
+ - 10:10AM Contributed II
+ - 10:30AM Break
+ - 10:50AM Invited III: Yong-Yeol Ahn
+ - 11:30AM Contributed III
+ - 11:50AM Contributed IV
+ - 12:10PM Invited IV: Hyejin Youn
+ - 1:30PM Invited V: Esteban Moro
+ - 2:10PM Invited VI: Marta C. Gonzalez
+ - 2:50PM Contributed V
+ - 3:10PM Contributed VI
+ - 3:30PM Break
+ - 3:50PM Invited VII: Daniel Rock
+ - 4:30PM Contributed VII
+ - 4:50PM Contributed VIII
+ - 5:10PM Invited VIII: Jiang Zhang
