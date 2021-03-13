@@ -9,7 +9,7 @@ We are looking for abstracts for the “Complex Networks in Economics and Innova
 - Notification to Authors: May 21, 2021
 - Submission of recorded talk (if that's your chosen option): June 14, 2021
 
-You should submit an abstract of one-page abstract including one optional descriptive figure and caption. If you’re presenting at Networks 2021 or another of its satellites, there should not be too much overlap with your other contributed talks. Your abstract should be submitted to https://easychair.org/my/conference?conf=cnei21. 
+You should submit an abstract of one-page abstract including one optional descriptive figure and caption. If you’re presenting at Networks 2021 or another of its satellites, there should not be too much overlap with your other contributed talks. Your abstract should be submitted to [https://easychair.org/my/conference?conf=cnei21](https://easychair.org/my/conference?conf=cnei21). 
 
 ### Confirmed Speakers:
 - [Daniel Rock](https://www.danielianrock.com/), The Wharton School, University of Pennsylvania 
