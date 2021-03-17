@@ -45,6 +45,7 @@ Tenative Schedule (Date TBD. All times are EST):
  - 11:30AM Contributed III
  - 11:50AM Contributed IV
  - 12:10PM Invited IV: Hyejin Youn
+ - 12:50PM Lunch Break
  - 1:30PM Invited V: Esteban Moro
  - 2:10PM Invited VI: Marta C. Gonzalez
  - 2:50PM Contributed V
