@@ -8,6 +8,7 @@ We are looking for abstracts for the “Complex Networks in Economics and Innova
 - Submission Deadline: May 5, 2021
 - Notification to Authors: May 21, 2021
 - Submission of recorded talk (if that's your chosen option): June 14, 2021
+- Date of Satellite: Wednesday, June 30, 2021
 
 You should submit an abstract of one-page abstract including one optional descriptive figure and caption. If you’re presenting at Networks 2021 or another of its satellites, there should not be too much overlap with your other contributed talks. Your abstract should be submitted to [https://easychair.org/my/conference?conf=cnei21](https://easychair.org/my/conference?conf=cnei21). 
 
@@ -35,7 +36,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 - In general, any application of network analysis that can be used to further our understanding of economics.
 
 # Agenda:
-Tenative Schedule (Date TBD. All times are EST):
+Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 8:30AM Invited I:  Lü Linyuan
  - 9:10AM Invited II: Maria del Rio Chanona
  - 9:50AM Contributed I
