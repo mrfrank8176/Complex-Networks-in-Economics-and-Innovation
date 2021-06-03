@@ -44,7 +44,7 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 10:30AM Break
  - 10:50AM Invited III: Yong-Yeol Ahn
  - 11:30AM Contributed III
- - 11:50AM Contributed IV: *What is a Labor Market? Classifying Workers and Jobs Using Network Theory*. James Fogel and Bernardo Modenesi.
+ - 11:50AM Contributed IV: *What is a Labor Market? Classifying Workers and Jobs Using Network Theory*. ![#6f42c1](James Fogel and Bernardo Modenesi).
  - 12:10PM Invited IV: Hyejin Youn
  - 12:50PM Lunch Break
  - 1:30PM Invited V: Esteban Moro
