@@ -39,8 +39,8 @@ Building on the above, the aim of this satellite is to explore the potential app
 Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 8:30AM Invited I:  [Lü Linyuan](https://linyuanlab.com/)
  - 9:10AM Invited II: [R. Maria del Rio-Chanona](https://www.inet.ox.ac.uk/people/rita-maria-del-rio-chanona/)
- - 9:50AM Contributed I
- - 10:10AM Contributed II
+ - 9:50AM Contributed I: *Process-driven network analysis of a mobile money system in Asia*. **Carolina Mattsson and Frank Takes**.
+ - 10:10AM Contributed II: *Discovering industries in networks of words*. **Juan Mateos-Garcia, Bishop Alex and Richardson George**.
  - 10:30AM Break
  - 10:50AM Invited III: [Yong-Yeol "YY" Ahn](https://yongyeol.com/)
  - 11:30AM Contributed III: *From code to market: Network of developers andcorrelated returns of cryptocurrencies*. **Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli**.
@@ -49,10 +49,10 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 12:50PM Lunch Break
  - 1:30PM Invited V: [Esteban Moro](http://estebanmoro.org/)
  - 2:10PM Invited VI: [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez)
- - 2:50PM Contributed V
- - 3:10PM Contributed VI
+ - 2:50PM Contributed V: *How to Govern Facebook*. **Seth Benzell and Avinash Collins**.
+ - 3:10PM Contributed VI: *The network limits of infectious disease control via occupation-based targeting*. **Demetris Avraam, Nick Obradovich, Niccolò Pescetelli, Manuel Cebrian and Alex Rutherford**.
  - 3:30PM Break
  - 3:50PM Invited VII: [Daniel Rock](https://www.danielianrock.com/)
- - 4:30PM Contributed VII
- - 4:50PM Contributed VIII
+ - 4:30PM Contributed VII: *Measuring Fraudulent Transactions On Complex Economic Networks Using Optimality Gap*. **Danilo Bernardineli and Wenjia Hu**.
+ - 4:50PM Contributed VIII: *Local connections drive global structure for technological innovation*. **Dion O'Neale, Demival Vasques Filho and Shaun Hendy**.
  - 5:10PM Invited VIII: [Jiang Zhang](http://www.swarmagents.cn/jake)
