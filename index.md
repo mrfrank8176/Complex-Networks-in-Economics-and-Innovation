@@ -37,22 +37,22 @@ Building on the above, the aim of this satellite is to explore the potential app
 
 # Agenda:
 Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
- - 8:30AM Invited I:  Lü Linyuan
- - 9:10AM Invited II: Maria del Rio Chanona
+ - 8:30AM Invited I:  [Lü Linyuan](https://linyuanlab.com/)
+ - 9:10AM Invited II: [R. Maria del Rio-Chanona](https://www.inet.ox.ac.uk/people/rita-maria-del-rio-chanona/)
  - 9:50AM Contributed I
  - 10:10AM Contributed II
  - 10:30AM Break
- - 10:50AM Invited III: Yong-Yeol Ahn
- - 11:30AM Contributed III
+ - 10:50AM Invited III: [Yong-Yeol "YY" Ahn](https://yongyeol.com/)
+ - 11:30AM Contributed III: *From code to market: Network of developers andcorrelated returns of cryptocurrencies*. **Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli**.
  - 11:50AM Contributed IV: *What is a Labor Market? Classifying Workers and Jobs Using Network Theory*. **James Fogel and Bernardo Modenesi**.
- - 12:10PM Invited IV: Hyejin Youn
+ - 12:10PM Invited IV: [Hyejin Youn](http://hyoun.me/)
  - 12:50PM Lunch Break
- - 1:30PM Invited V: Esteban Moro
- - 2:10PM Invited VI: Marta C. Gonzalez
+ - 1:30PM Invited V: [Esteban Moro](http://estebanmoro.org/)
+ - 2:10PM Invited VI: [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez)
  - 2:50PM Contributed V
  - 3:10PM Contributed VI
  - 3:30PM Break
- - 3:50PM Invited VII: Daniel Rock
+ - 3:50PM Invited VII: [Daniel Rock](https://www.danielianrock.com/)
  - 4:30PM Contributed VII
  - 4:50PM Contributed VIII
- - 5:10PM Invited VIII: Jiang Zhang
+ - 5:10PM Invited VIII: [Jiang Zhang](http://www.swarmagents.cn/jake)
