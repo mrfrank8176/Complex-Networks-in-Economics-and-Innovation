@@ -4,7 +4,7 @@
 - [Michele Coscia](https://www.michelecoscia.com/), IT University of Copenhagen
 
 ## Call for Participation:
-~We are looking for abstracts for the “Complex Networks in Economics and Innovation” satellite event of the Networks 2021 conference ([Link](https://easychair.org/cfp/CNEI21)).
+We are looking for abstracts for the “Complex Networks in Economics and Innovation” satellite event of the Networks 2021 conference ([Link](https://easychair.org/cfp/CNEI21)).
 - Submission Deadline: May 5, 2021
 - Notification to Authors: May 21, 2021
 - Submission of recorded talk (if that's your chosen option): June 14, 2021
