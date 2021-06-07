@@ -51,7 +51,7 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 12:50PM Lunch Break
  - 1:30PM Invited V: [Esteban Moro](http://estebanmoro.org/)
  - 2:10PM Invited VI: [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez)
- - 2:50PM Contributed V: *How to Govern Facebook*. **Seth Benzell and Avinash Collins**.
+ - 2:50PM Contributed V: *How to Govern Facebook*. **Seth Benzell and Avinash Collis**.
  - 3:10PM Contributed VI: *The network limits of infectious disease control via occupation-based targeting*. **Demetris Avraam, Nick Obradovich, Niccolò Pescetelli, Manuel Cebrian and Alex Rutherford**.
  - 3:30PM Break
  - 3:50PM Invited VII: [Daniel Rock](https://www.danielianrock.com/)
