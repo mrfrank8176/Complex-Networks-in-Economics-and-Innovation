@@ -44,7 +44,7 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 9:50AM Contributed I: *Process-driven network analysis of a mobile money system in Asia*. **Carolina Mattsson and Frank Takes**.
  - 10:10AM Contributed II: *Discovering industries in networks of words*. **Juan Mateos-Garcia, Bishop Alex and Richardson George**.
  - 10:30AM Break
- - 10:50AM Invited III: [Yong-Yeol "YY" Ahn](https://yongyeol.com/)
+ - 10:50AM Invited III: *The latent structure of national scientific development*. [Yong-Yeol "YY" Ahn](https://yongyeol.com/)
  - 11:30AM Contributed III: *From code to market: Network of developers andcorrelated returns of cryptocurrencies*. **Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli**.
  - 11:50AM Contributed IV: *What is a Labor Market? Classifying Workers and Jobs Using Network Theory*. **James Fogel and Bernardo Modenesi**.
  - 12:10PM Invited IV: [Hyejin Youn](http://hyoun.me/)
