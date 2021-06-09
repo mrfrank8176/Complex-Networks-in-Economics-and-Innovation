@@ -39,7 +39,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 
 # Agenda:
 Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
- - 8:30AM Invited I:  [Lü Linyuan](https://linyuanlab.com/)
+ - 8:30AM Invited I:  *Unfolding innovation via the analysis of science and technology data*. [Lü Linyuan](https://linyuanlab.com/)
  - 9:10AM Invited II: [R. Maria del Rio-Chanona](https://www.inet.ox.ac.uk/people/rita-maria-del-rio-chanona/)
  - 9:50AM Contributed I: *Process-driven network analysis of a mobile money system in Asia*. **Carolina Mattsson and Frank Takes**.
  - 10:10AM Contributed II: *Discovering industries in networks of words*. **Juan Mateos-Garcia, Bishop Alex and Richardson George**.
@@ -57,4 +57,4 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 3:50PM Invited VII: [Daniel Rock](https://www.danielianrock.com/)
  - 4:30PM Contributed VII: *Measuring Fraudulent Transactions On Complex Economic Networks Using Optimality Gap*. **Danilo Bernardineli and Wenjia Hu**.
  - 4:50PM Contributed VIII: *Local connections drive global structure for technological innovation*. **Dion O'Neale, Demival Vasques Filho and Shaun Hendy**.
- - 5:10PM Invited VIII: [Jiang Zhang](http://www.swarmagents.cn/jake)
+ - 5:10PM Invited VIII: *Automated data driven modeling of complex systems*. [Jiang Zhang](http://www.swarmagents.cn/jake)
