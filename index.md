@@ -57,4 +57,4 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 3:50PM Invited VII: [Daniel Rock](https://www.danielianrock.com/)
  - 4:30PM Contributed VII: *Measuring Fraudulent Transactions On Complex Economic Networks Using Optimality Gap*. **Danilo Bernardineli and Wenjia Hu**.
  - 4:50PM Contributed VIII: *Local connections drive global structure for technological innovation*. **Dion O'Neale, Demival Vasques Filho and Shaun Hendy**.
- - 5:10PM Invited VIII: *Automated data driven modeling of complex systems*. [Jiang Zhang](http://www.swarmagents.cn/jake)
+ - 5:10PM Invited VIII: *Revealing Hidden Information on Large Social and Economic Networks by Machine Learning*. [Jiang Zhang](http://www.swarmagents.cn/jake)
