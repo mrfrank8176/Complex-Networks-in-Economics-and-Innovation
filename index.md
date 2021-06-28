@@ -55,7 +55,7 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 2:50PM Contributed V: *How to Govern Facebook*. **Seth Benzell and Avinash Collis**.
  - 3:10PM Contributed VI: *The network limits of infectious disease control via occupation-based targeting*. **Demetris Avraam, Nick Obradovich, Niccolò Pescetelli, Manuel Cebrian and Alex Rutherford**.
  - 3:30PM Break
- - 3:50PM Invited VII: [Daniel Rock](https://www.danielianrock.com/)
+ - 3:50PM Invited VII: *Digital capital and superstar firms*. [Daniel Rock](https://www.danielianrock.com/)
  - 4:30PM Contributed VII: *Measuring Fraudulent Transactions On Complex Economic Networks Using Optimality Gap*. **Danilo Bernardineli and Wenjia Hu**.
  - 4:50PM Contributed VIII: *Local connections drive global structure for technological innovation*. **Dion O'Neale, Demival Vasques Filho and Shaun Hendy**.
  - 5:10PM Invited VIII: *Revealing Hidden Information on Large Social and Economic Networks by Machine Learning*. [Jiang Zhang](http://www.swarmagents.cn/jake)
