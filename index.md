@@ -50,7 +50,7 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 11:50AM Contributed IV: *What is a Labor Market? Classifying Workers and Jobs Using Network Theory*. **James Fogel and Bernardo Modenesi**.
  - 12:10PM Invited IV: [Hyejin Youn](http://hyoun.me/)
  - 12:50PM Lunch Break
- - 1:30PM Invited V: [Esteban Moro](http://estebanmoro.org/)
+ - 1:30PM Invited V: *Universal resilience of labor networks*. [Esteban Moro](http://estebanmoro.org/)
  - 2:10PM Invited VI: [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez)
  - 2:50PM Contributed V: *How to Govern Facebook*. **Seth Benzell and Avinash Collis**.
  - 3:10PM Contributed VI: *The network limits of infectious disease control via occupation-based targeting*. **Demetris Avraam, Nick Obradovich, Niccolò Pescetelli, Manuel Cebrian and Alex Rutherford**.
