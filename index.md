@@ -41,7 +41,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 # Agenda:
 Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 8:30AM Invited I:  *Unfolding innovation via the analysis of science and technology data*. [Lü Linyuan](https://linyuanlab.com/)
- - 9:10AM Invited II: [R. Maria del Rio-Chanona](https://www.inet.ox.ac.uk/people/rita-maria-del-rio-chanona/)
+ - 9:10AM Invited II: *Occupational mobility networks and the future of work*. [R. Maria del Rio-Chanona](https://www.inet.ox.ac.uk/people/rita-maria-del-rio-chanona/)
  - 9:50AM Contributed I: *Process-driven network analysis of a mobile money system in Asia*. **Carolina Mattsson and Frank Takes**.
  - 10:10AM Contributed II: *Discovering industries in networks of words*. **Juan Mateos-Garcia, Bishop Alex and Richardson George**.
  - 10:30AM Break
