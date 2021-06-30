@@ -48,7 +48,7 @@ Tenative Schedule (Wednesday, June 30, 2021. All times are EST):
  - 10:50AM Invited III: *The latent structure of national scientific development*. [Yong-Yeol "YY" Ahn](https://yongyeol.com/)
  - 11:30AM Contributed III: *From code to market: Network of developers andcorrelated returns of cryptocurrencies*. **Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli**.
  - 11:50AM Contributed IV: *What is a Labor Market? Classifying Workers and Jobs Using Network Theory*. **James Fogel and Bernardo Modenesi**.
- - 12:10PM Invited IV: [Hyejin Youn](http://hyoun.me/)
+ - 12:10PM Invited IV: *The Pathway of Innovation*. [Hyejin Youn](http://hyoun.me/)
  - 12:50PM Lunch Break
  - 1:30PM Invited V: *Universal resilience of labor networks*. [Esteban Moro](http://estebanmoro.org/)
  - 2:10PM Invited VI: [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez)
