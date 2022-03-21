@@ -3,6 +3,8 @@
 - [Morgan R. Frank](https://www.pitt.edu/~mrfrank), University of Pittsburgh
 - [Michele Coscia](https://www.michelecoscia.com/), IT University of Copenhagen
 
+See last year's webpage [here](https://mrfrank8176.github.io/Complex-Networks-in-Economics-and-Innovation/2021.md).
+
 ## Call for Participation:
 We are looking for abstracts for the “Complex Networks in Economics and Innovation” satellite event of the NetSci 2022 conference.
 - Submission Deadline: TBD
