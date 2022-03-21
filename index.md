@@ -10,7 +10,7 @@ We are looking for abstracts for the “Complex Networks in Economics and Innova
 - Submission Deadline: TBD
 - Notification to Authors: TBD
 - Submission of recorded talk (if that's your chosen option): TBD
-- **Date of Satellite: TBD**
+- **Date of Satellite: some day in July 11 – 24, 2022 (exact date TBD)**
 
 **Registration (when it opens): [here](https://netsci2022.net/)**
 
