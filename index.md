@@ -1,4 +1,4 @@
-# This is a Virtual Satellite for NetwSci 2022! 
+# This is a Virtual Satellite for NetSci 2022! 
 ## Satellite Organizers:
 - [Morgan R. Frank](https://www.pitt.edu/~mrfrank), University of Pittsburgh
 - [Michele Coscia](https://www.michelecoscia.com/), IT University of Copenhagen
