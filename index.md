@@ -19,6 +19,7 @@ We are looking for abstracts for the “Complex Networks in Economics and Innova
 - Teresa Farinha ([UNU-MERIT](https://www.merit.unu.edu/about-us/profile/?staff_id=4023))
 - Alessandra Urbinati ([University of Turin](https://scholar.google.com/citations?user=O-QKt_wAAAAJ&hl=en&oi=ao))
 - Renaud Lambiotte ([University of Oxford](https://www.maths.ox.ac.uk/people/renaud.lambiotte))
+- Francois Lafond ([University of Oxford](https://www.inet.ox.ac.uk/people/francois-lafond/))
 
 ## Satellite Description:
 **Registration (when it opens): [here](https://netsci2022.net/)**
