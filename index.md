@@ -20,6 +20,7 @@ We are looking for abstracts for the “Complex Networks in Economics and Innova
 - Alessandra Urbinati ([University of Turin](https://scholar.google.com/citations?user=O-QKt_wAAAAJ&hl=en&oi=ao))
 - Renaud Lambiotte ([University of Oxford](https://www.maths.ox.ac.uk/people/renaud.lambiotte))
 - Francois Lafond ([University of Oxford](https://www.inet.ox.ac.uk/people/francois-lafond/))
+- Ricardo Hausmann ([Harvard University](hks.harvard.edu/faculty/ricardo-hausmann))
 
 ## Satellite Description:
 **Registration (when it opens): [here](https://netsci2022.net/)**
