@@ -7,7 +7,7 @@ See last year's webpage [here](https://mrfrank8176.github.io/Complex-Networks-in
 
 ## Call for Participation:
 We are looking for abstracts for the “Complex Networks in Economics and Innovation” satellite event of the NetSci 2022 conference.
-- Submission Deadline: May 13, 2022 ([Submission Link](https://easychair.org/conferences/?conf=cnei22))
+- Submission Deadline: May 23, 2022 ([Submission Link](https://easychair.org/conferences/?conf=cnei22))
 - Notification to Authors: June 3, 2022
 - Submission of recorded talk (if that's your chosen option): TBD
 - **Date of Satellite: some day in July 11 – 24, 2022 (exact date TBD)**
