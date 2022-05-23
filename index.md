@@ -10,7 +10,7 @@ We are looking for abstracts for the “Complex Networks in Economics and Innova
 - Submission Deadline: May 23, 2022 ([Submission Link](https://easychair.org/conferences/?conf=cnei22))
 - Notification to Authors: June 3, 2022
 - Submission of recorded talk (if that's your chosen option): TBD
-- **Date of Satellite: some day in July 11 – 24, 2022 (exact date TBD)**
+- **Date of Satellite: 8am-2pm ET, July 18, 2022**
 
 **Registration (when it opens): [here](https://netsci2022.net/)**
 
@@ -23,7 +23,7 @@ We are looking for abstracts for the “Complex Networks in Economics and Innova
 - Ricardo Hausmann ([Harvard University](hks.harvard.edu/faculty/ricardo-hausmann))
 
 ## Satellite Description:
-**Registration (when it opens): [here](https://netsci2022.net/)**
+**Registration: [here](https://netsci2022.net/)**
 
 Economic convergence occurs when developing economies increase their productivity faster than developed economies. Society has a moral imperative to promote economic convergence because it is the most reliable path to lift people out of poverty and achieve decent standards of living. However, today’s global and regional economies are characterized by a high degree of complexity. Thus, economic convergence is best supported by improved understanding of the ecosystem of complementary actors, knowhow, and capital comprising various economic activities. Thus, productivity may be conceptualized as an emerging property of a complex system made by simpler interacting parts. Complex systems are notoriously difficult to control but quantifying these interactions can identify the bottlenecks to growth and inform policy to bolster economic convergence. Using tools from economics, complex systems, and network science, we seek crucial insights that enable economic convergence.
 
