@@ -39,4 +39,18 @@ Building on the above, the aim of this satellite is to explore the potential app
 - In general, any application of network analysis that can be used to further our understanding of economics.
 
 # Agenda:
-TBD
+-	8:00AM, Invited 1: [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann)
+-	8:30AM, Contributed 1: Carolina Mattsson, Teodoro Criscione, and Frank Takes. *Circulation of a digital community currency*
+-	8:50AM, Invited 2: [Renaud Lambiotte](http://www.lambiotte.be/)
+-	9:20AM, Contributed 2: Hardik Rajpal and Omar Guerrero. *Measuring and modeling technological sophistication as synergies among productive inputs*
+-	9:40AM, Invited 3: [Neave O’Clery](http://neaveoclery.com/)
+-	10:10AM, Coffee break
+-	10:30AM, Contributed 3: Giacomo Vaccario, et al. *Network embeddedness indicates the innovation potential of firms*
+-	10:50AM, Invited 4: [Francois Lafond](https://francoislafond.info/)
+-	11:20AM, Contributed 4: Bowen Lou and Evan Rawley. *Artificial Intelligence, Alliances, Drug Innovation*
+-	11:40PM, Invited 5: [Teresa Farinha](https://tfarinha.wixsite.com/tfarinha)
+-	12:10PM, Lunch Break
+-	12:40PM, Invited 6: [Alessandra Urbinati](https://twitter.com/urbinatiale?lang=en)
+-	1:10PM, Contributed 5: Kathyrn Fair and Omar Guerrero. *Endogenous Labour Flow Networks: A Bottom-Up Model to Analyse Long-Term Employment Dynamics*
+-	1:30PM, Invited 7: [James McNerney](https://growthlab.cid.harvard.edu/people/james-mcnerney)
+-	2:00PM, End
