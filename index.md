@@ -43,7 +43,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 -	8:30AM, Contributed 1: Carolina Mattsson, Teodoro Criscione, and Frank Takes. *Circulation of a digital community currency*
 -	8:50AM, Invited 2: [Renaud Lambiotte](http://www.lambiotte.be/)
 -	9:20AM, Contributed 2: Hardik Rajpal and Omar Guerrero. *Measuring and modeling technological sophistication as synergies among productive inputs*
--	9:40AM, Invited 3: [Neave O’Clery](http://neaveoclery.com/)
+-	9:40AM, Invited 3: [Neave O’Clery](http://neaveoclery.com/). *Do higher order connections matter? Modelling urban and regional industry agglomeration patterns*
 -	10:10AM, Coffee break
 -	10:30AM, Contributed 3: Giacomo Vaccario, et al. *Network embeddedness indicates the innovation potential of firms*
 -	10:50AM, Invited 4: [Francois Lafond](https://francoislafond.info/)
