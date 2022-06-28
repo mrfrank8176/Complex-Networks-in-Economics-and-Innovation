@@ -48,7 +48,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 -	10:30AM, Contributed 3: Giacomo Vaccario, et al. *Network embeddedness indicates the innovation potential of firms*
 -	10:50AM, Invited 4: [Francois Lafond](https://francoislafond.info/)
 -	11:20AM, Contributed 4: Bowen Lou and Evan Rawley. *Artificial Intelligence, Alliances, Drug Innovation*
--	11:40PM, Invited 5: [Teresa Farinha](https://tfarinha.wixsite.com/tfarinha)
+-	11:40PM, Invited 5: [Teresa Farinha](https://tfarinha.wixsite.com/tfarinha) *Which kind of jobs do green economies need? - job relatedness in sustainable cities*
 -	12:10PM, Lunch Break
 -	12:40PM, Invited 6: [Alessandra Urbinati](https://twitter.com/urbinatiale?lang=en)
 -	1:10PM, Contributed 5: Kathyrn Fair and Omar Guerrero. *Endogenous Labour Flow Networks: A Bottom-Up Model to Analyse Long-Term Employment Dynamics*
