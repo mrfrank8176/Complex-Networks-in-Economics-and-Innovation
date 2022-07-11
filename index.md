@@ -52,5 +52,5 @@ Building on the above, the aim of this satellite is to explore the potential app
 -	12:10PM, Lunch Break
 -	12:40PM, Invited 6: [Alessandra Urbinati](https://twitter.com/urbinatiale?lang=en) *Scientific Migration: from data to pattern*
 -	1:10PM, Contributed 5: Kathyrn Fair and Omar Guerrero. *Endogenous Labour Flow Networks: A Bottom-Up Model to Analyse Long-Term Employment Dynamics*
--	1:30PM, Invited 7: [James McNerney](https://growthlab.cid.harvard.edu/people/james-mcnerney)
+-	1:30PM, Invited 7: [James McNerney](https://growthlab.cid.harvard.edu/people/james-mcnerney) *Bridging the short-term and long-term dynamics of economic structural change*
 -	2:00PM, End
