@@ -39,7 +39,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 - In general, any application of network analysis that can be used to further our understanding of economics.
 
 # Agenda:
--	8:00AM, Invited 1: [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann)
+-	8:00AM, Invited 1: [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann) *Public Goods in an Economic Complexity Framework*
 -	8:30AM, Contributed 1: Carolina Mattsson, Teodoro Criscione, and Frank Takes. *Circulation of a digital community currency*
 -	8:50AM, Invited 2: [Renaud Lambiotte](http://www.lambiotte.be/)
 -	9:20AM, Contributed 2: Hardik Rajpal and Omar Guerrero. *Measuring and modeling technological sophistication as synergies among productive inputs*
