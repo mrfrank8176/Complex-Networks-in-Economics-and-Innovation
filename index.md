@@ -46,7 +46,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 -	9:40AM, Invited 3: [Neave O’Clery](http://neaveoclery.com/). *Do higher order connections matter? Modelling urban and regional industry agglomeration patterns*
 -	10:10AM, Coffee break
 -	10:30AM, Contributed 3: Giacomo Vaccario, et al. *Network embeddedness indicates the innovation potential of firms*
--	10:50AM, Invited 4: [Francois Lafond](https://francoislafond.info/)
+-	10:50AM, Invited 4: [Francois Lafond](https://francoislafond.info/) *Technological interdependencies predict innovation dynamics*
 -	11:20AM, Contributed 4: Bowen Lou and Evan Rawley. *Artificial Intelligence, Alliances, Drug Innovation*
 -	11:40PM, Invited 5: [Teresa Farinha](https://tfarinha.wixsite.com/tfarinha) *Which kind of jobs do green economies need? - job relatedness in sustainable cities*
 -	12:10PM, Lunch Break
