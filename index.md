@@ -41,7 +41,7 @@ Building on the above, the aim of this satellite is to explore the potential app
 # Agenda:
 -	8:00AM, Invited 1: [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann) *Public Goods in an Economic Complexity Framework*
 -	8:30AM, Contributed 1: Carolina Mattsson, Teodoro Criscione, and Frank Takes. *Circulation of a digital community currency*
--	8:50AM, Invited 2: [Renaud Lambiotte](http://www.lambiotte.be/)
+-	8:50AM, Invited 2: [Renaud Lambiotte](http://www.lambiotte.be/) *Variance and covariance of distributions on graphs - and a few words about network curvature*
 -	9:20AM, Contributed 2: Hardik Rajpal and Omar Guerrero. *Measuring and modeling technological sophistication as synergies among productive inputs*
 -	9:40AM, Invited 3: [Neave O’Clery](http://neaveoclery.com/). *Do higher order connections matter? Modelling urban and regional industry agglomeration patterns*
 -	10:10AM, Coffee break
